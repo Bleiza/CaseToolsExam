@@ -8,9 +8,4 @@ public class HardDisk_117 {
 	{
 		this.size=size;
 	}
-	int get_size()
-
-{
-		return size;
-		}
-	}
+}
